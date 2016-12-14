@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Jsonparsing</string>
+    <string name="title_activity_main_of_json_string">MainActivityOfJsonString</string>
+    <string name="title_activity_main_of_json_string_array">MainActivityOfJsonStringArray</string>
+</resources>
